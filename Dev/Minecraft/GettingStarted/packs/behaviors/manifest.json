@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Getting Started Behaviors",
+    "description": "Demonstrate a very basic Minecraft Add-on",
+    "uuid": "56131b0b-93b1-4b54-9413-fd93aa1e525c",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for Getting Started",
+      "type": "client_data",
+      "uuid": "b2ac2809-fed9-4da9-86b8-8b39e009e12e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
